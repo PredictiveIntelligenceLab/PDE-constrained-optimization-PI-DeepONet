@@ -11,7 +11,14 @@ Design and optimal control problems are among the fundamental, ubiquitous tasks 
 TBA
 
 
-Example video (Edit the README.md file and just drag-n-drop the video file here):
+## Examples
 
-https://user-images.githubusercontent.com/3844367/138727920-5dbd58ab-e80f-42f9-bca5-8398d530e01b.mp4
+### Optimal control of a 2D Heat equation
+
+https://user-images.githubusercontent.com/3844367/138729588-c1a8f95e-7127-46b3-9792-fbb0e42f8f93.mp4
+
+### Stokes flow
+
+https://user-images.githubusercontent.com/3844367/138729917-f688689b-0f4f-41e3-8b18-a87b102c3196.mp4
+
 
